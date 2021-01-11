@@ -2,7 +2,7 @@
 
 Hello! This is a demo project where I experimented with some scripts in VBA. Below are the goals I intend to achieve.
 
-![VBA Script](Resources/VBAScripts.vbs)
+[VBA Script](Resources/VBAScripts.vbs) - The VBA scripts.
 
 ### Stock market analyst
 
