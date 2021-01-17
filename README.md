@@ -1,4 +1,4 @@
-# Sebastian Echeverry's VBA Homework - The VBA of Wall Street
+# Sebastian's VBA Challenge - The VBA of Wall Street
 
 Hello! This is a demo project where I experimented with some scripts in VBA. Below are the goals I intend to achieve.
 
