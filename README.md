@@ -1,6 +1,6 @@
-# Sebastian's VBA Challenge - The VBA of Wall Street
+# The VBA of Wall Street
 
-Hello! This is a demo project where I experimented with some scripts in VBA. Below are the goals I intend to achieve.
+Hello! This is a demo project where I experimented with some scripts in VBA.
 
 [VBA Script](Resources/VBAScripts.vbs) - The VBA scripts.
 
